@@ -1,4 +1,4 @@
-# Use Case: Popular NASA Shuttle Missions
+# Use Case: Vaccination Dashboard
 
 ```json
 { 
