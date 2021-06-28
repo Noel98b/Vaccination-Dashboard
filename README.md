@@ -2,7 +2,7 @@
 
 ```json
 { 
-	mission: 'sts-10', 
+	location: 'Stuttgart', 
 	timestamp: 1604325221 
 }
 ```
